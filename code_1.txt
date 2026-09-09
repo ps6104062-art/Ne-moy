@@ -1,0 +1,5 @@
+tg_raliv/
+├── bot.py          # сам бот (код выше)
+├── requirements.txt
+├── sessions/       # папка для сессий
+└── accounts.db     # база (создастся сама)
