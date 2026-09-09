@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8813733175:AAEX6WkDHnDCRz8RwcNpORAhZQxDqjGmi3g")
 logging.basicConfig(
     level=logging.WARNING,
     format="%(asctime)s %(levelname)s %(name)s: %(message)s",
