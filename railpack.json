@@ -1,0 +1,8 @@
+{
+  "build": {
+    "provider": "python"
+  },
+  "deploy": {
+    "startCommand": "python bot_menu_stats.py"
+  }
+}
